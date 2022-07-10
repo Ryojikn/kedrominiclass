@@ -55,7 +55,7 @@ Isso é o que chamamos de scaffolding, uma forma de criar um esqueleto inicial p
 
 Starters from kedro
 
-astro-airflow-iris:
+```astro-airflow-iris:
   template_path: git+https://github.com/kedro-org/kedro-starters.git
   directory: astro-airflow-iris
 astro-iris:
@@ -75,7 +75,7 @@ spaceflights:
   directory: spaceflights
 standalone-datacatalog:
   template_path: git+https://github.com/kedro-org/kedro-starters.git
-  directory: standalone-datacatalog
+  directory: standalone-datacatalog```
 
 
 Vamos selecionar o de spaceflights para brincarmos.
