@@ -75,7 +75,7 @@ spaceflights:
   directory: spaceflights
 standalone-datacatalog:
   template_path: git+https://github.com/kedro-org/kedro-starters.git
-  directory: standalone-datacatalog```
+  directory: standalone-datacatalog´´´
 
 
 Vamos selecionar o de spaceflights para brincarmos.
